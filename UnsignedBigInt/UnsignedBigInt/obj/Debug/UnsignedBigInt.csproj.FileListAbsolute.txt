@@ -1,0 +1,11 @@
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\bin\Debug\BigInt.pdb
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\obj\Debug\UnsignedBigInt.Form1.resources
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\obj\Debug\BigInt.Properties.Resources.resources
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\obj\Debug\UnsignedBigInt.csproj.GenerateResource.Cache
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\obj\Debug\BigInt.pdb
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\bin\Debug\BigInt.exe.manifest
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\bin\Debug\BigInt.application
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\obj\Debug\BigInt.exe.manifest
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\obj\Debug\BigInt.application
+C:\Users\Faye\Desktop\UnsignedBigInt\UnsignedBigInt\UnsignedBigInt\obj\Debug\BigInt.exe
